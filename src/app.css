@@ -1,0 +1,40 @@
+.button {
+    height: 10vh;
+    width: 10vw;
+    font-size: 200%;
+    border: none;
+    background-color: rgb(121, 110, 110);
+    margin: 4px;
+    cursor: pointer;
+    color: white;
+  }
+  .textview {
+    width: 40vw;
+    margin: 1%;
+    font-size: 200%;
+    padding: 10px;
+  }
+  .jay{
+      text-align: center;
+      color: white;
+  }
+  .main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color:black;
+    
+  }
+  .maiin{
+      width:100vw;
+      height: 100vh;
+      background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+  }
+  .bc{
+      background-color: red;
+  }
+  .eq{
+      background-color: blue;
+      width: 42vw;;
+  }
